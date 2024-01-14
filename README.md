@@ -30,7 +30,7 @@ https://github.com/07th-mod/python-patcher/releases/latest
 2. Установите 07th-Mod через установщик на Higurashi Rei:
 https://github.com/07th-mod/python-patcher/releases/latest
 
-2. Загрузите последнюю версию перевода:
+2. Загрузите последнюю версию перевода (в репозитории версия перевода может быть устаревшей):
 https://github.com/Airdrakis/Higurashi_Rei-ru/releases/latest
 
 Извлеките архив, который вы только что скачали.
